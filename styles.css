@@ -1,2 +1,27 @@
+.size-chart {
+    border-collapse: collapse;
+    width: 100%; 
+    text-align: left;
+  }
+  
+   .size-chart thead{
+    
+    text-align: left;
+  }
+  
+ .size-chart th, .size-chart td {
+    border: 1px solid black;
+    padding:0px;
+  } 
+  .size-chart th, .size-chart td {
 
+    padding:0px;
+  }
+ .size-chart td{
+    text-align: right;
+  }
+  .size-chart .main{
+    text-align: left;
+  }
+  
 /* Your CSS Code here. */
